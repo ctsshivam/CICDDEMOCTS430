@@ -15,7 +15,7 @@ variables:
 
   WebAppName: 'demo-webapp-ShivamCTS430'   # <-- change this 
 
-  AzureServiceConnection: 'SC-Azure-Demo-ShivamdCTS430'  # <-- change this 
+  AzureServiceConnection: 'CTS-ShivamCTS430'  # <-- change this 
 
  
 
