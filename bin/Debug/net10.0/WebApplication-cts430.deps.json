@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "WebApplication-cts430/1.0.0": {
+        "runtime": {
+          "WebApplication-cts430.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplication-cts430/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
